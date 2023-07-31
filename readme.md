@@ -8,8 +8,8 @@
 
 ## Objectives
 
-- Mengerti Cara Menggunakan `If-Else`
-- Mengerti Logika `If-Else`
+- Mengerti Cara Menggunakan `If-Else` an `Looping`
+- Mengerti Logika `If-Else` dan `Looping`
 - Mengerti Cara Menggunakan Operator Evaluasi `===`, `!==`
 
 ## Directions
