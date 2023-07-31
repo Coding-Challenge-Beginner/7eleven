@@ -1,0 +1,23 @@
+{
+  "name": "7eleven",
+  "version": "1.0.0",
+  "description": "7eleven",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      "h8-reporter"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "h8-reporter": "^1.1.1",
+    "h8-restriction": "^1.1.1",
+    "jest": "^29.6.2"
+  }
+}
